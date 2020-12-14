@@ -16,7 +16,7 @@ services:
       - /app/node_modules
       - ./server:/app
     ports:
-      - "4000:4000"
+      - "4001:4000"
     links:
       - mongo
   client:
