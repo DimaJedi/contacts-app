@@ -1,0 +1,32 @@
+version: '3'
+services:
+  mongo:
+    container_name: mongo
+    hostname: mongo
+    image: 'mongo'
+    volumes:
+      - ~/mongo/data:/data/db
+    ports:
+      - "27017:27017"
+  api:
+    hostname: api
+    build:
+      context: ./server
+    volumes:
+      - /app/node_modules
+      - ./server:/app
+    ports:
+      - "4000:4000"
+    links:
+      - mongo
+  client:
+    stdin_open: true
+    build:
+      context: ./client
+    volumes:
+      - /app/node_modules
+      - ./client:/app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
