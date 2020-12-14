@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25822c7b-0934-4263-af94-9230823f0b91" name="Default Changelist" comment="api port 4001">
+    <list default="true" id="25822c7b-0934-4263-af94-9230823f0b91" name="Default Changelist" comment="front 4001 port">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607941150349</updated>
-      <workItem from="1607941151650" duration="27681000" />
+      <workItem from="1607941151650" duration="28001000" />
     </task>
     <task id="LOCAL-00001" summary="working verion">
       <created>1607968526574</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607975217911</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="front 4001 port">
+      <created>1607975884663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607975884663</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +177,7 @@
     <MESSAGE value="commit client" />
     <MESSAGE value="client port" />
     <MESSAGE value="api port 4001" />
-    <option name="LAST_COMMIT_MESSAGE" value="api port 4001" />
+    <MESSAGE value="front 4001 port" />
+    <option name="LAST_COMMIT_MESSAGE" value="front 4001 port" />
   </component>
 </project>
