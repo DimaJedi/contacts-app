@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25822c7b-0934-4263-af94-9230823f0b91" name="Default Changelist" comment="commit client">
+    <list default="true" id="25822c7b-0934-4263-af94-9230823f0b91" name="Default Changelist" comment="api port 4001">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607941150349</updated>
-      <workItem from="1607941151650" duration="25876000" />
+      <workItem from="1607941151650" duration="27681000" />
     </task>
     <task id="LOCAL-00001" summary="working verion">
       <created>1607968526574</created>
@@ -100,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607969248174</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="client port">
+      <created>1607971624479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607971624479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="client port">
+      <created>1607972219245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607972219245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="api port 4001">
+      <created>1607975217911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607975217911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +168,8 @@
     <MESSAGE value="working verion" />
     <MESSAGE value="working version" />
     <MESSAGE value="commit client" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit client" />
+    <MESSAGE value="client port" />
+    <MESSAGE value="api port 4001" />
+    <option name="LAST_COMMIT_MESSAGE" value="api port 4001" />
   </component>
 </project>
